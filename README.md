@@ -1,8 +1,11 @@
 # handbook
 A WIP handbook for Ada teachers and students.
 
-## For Students
+## Contents
+- [JavaScript Coding Style](javascript-coding-style.md)
+
+### For Students
 - [Jupyter Notebook Assignment Workflow](student-notebook-assignment-workflow.md)
 
-## For Teachers
+### For Teachers
 - [Jupyter Notebook Assignment Workflow](teacher-notebook-assignment-workflow.md)
