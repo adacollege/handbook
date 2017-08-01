@@ -1,6 +1,6 @@
 # Teacher Notebook Assignment Workflow
 
-1. Go to the [AdaNCDS](https://github.com/AdaNCDS) org and press the 'New' button
+1. Go to the [AdaCollege](https://github.com/AdaCollege) org and press the 'New' button
 
 ![new button](http://i.imgur.com/9Q073Dq.png)
 
@@ -43,7 +43,7 @@ git push
 
 ![new travis project](http://i.imgur.com/H7a09DN.png)
 
-10. Choose the AdaNCDS org:
+10. Choose the AdaCollege org:
 
 ![travis orgs](http://i.imgur.com/Z30sPTy.png)
 
