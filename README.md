@@ -1,5 +1,5 @@
 # handbook
-A WIP handbook for Ada teachers and students.
+A WIP (Work in Progress) handbook for Ada teachers and students.
 
 ## Contents
 - [JavaScript Coding Style](javascript-coding-style.md)
