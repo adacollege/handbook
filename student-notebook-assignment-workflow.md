@@ -9,7 +9,12 @@
 
 ![clone url](http://i.imgur.com/6NO0SKN.png)
 
-4. Log in to Jupyter and open a new terminal. Run `git clone <the url you copied>`
+4. Log in to Jupyter and open a new terminal (New -> Terminal). Run:
+```sh
+git clone <the url you copied>
+cd <name of repo>
+```
+(to copy into a Jupyter notebook use SHIFT+CTRL+V)
 5. Complete the assignment. Make sure you save your changes!
 6. Commit and push your files:
 ```sh
