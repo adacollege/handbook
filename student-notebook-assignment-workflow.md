@@ -15,6 +15,7 @@ git clone <the url you copied>
 cd <name of repo>
 ```
 (to copy into a Jupyter notebook use SHIFT+CTRL+V)
+
 5. Complete the assignment. Make sure you save your changes!
 6. Commit and push your files:
 ```sh
